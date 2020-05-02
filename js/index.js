@@ -775,7 +775,7 @@ document.onkeydown = function(event) {
      {
       'icon': iconImage,
       'title': 'Gunday Returns - Dilpreet Dhillon',
-      'file': 'http://s48.ve.vc/data/48/34909/275105/Gunday%20Returns%20-%20Dilpreet%20Dhillon%20(DjPunjab.Com).mp3'
+      'file': 'https://raag.fm/files/mp3/128/Punjabi-Singles/1297567/Gunday%20Returns%20-%20(Raag.Fm).mp3'
     }, {
       'icon': iconImage,
       'title': 'Reela Wale Deck - R Nait',
